@@ -1,0 +1,27 @@
+{
+  "~Configuration>com.dts.freefiremax~[OptimizeScreen]": true,
+  "version": "2.133.1",
+  "device": "VIVO T4x",
+  "androidVersion": 16,
+  "configuration": {
+    "package": "com.dts.freefiremax",
+    "section": "OptimizeScreen",
+    "screen": {
+      "dpi": 395
+    },
+    "configuration.sensitivity": {
+      "weapon": {
+        "Shotgun": {},
+        "DesertEagle": {},
+        "UMP": {}
+      }
+    }
+  },
+  "autoUpdate": true,
+  "configUrl": "https://your-domain.example/config.json",
+  "feature": {
+    "name": "AIMBOT",
+    "target": "head",
+    "type": "ffmax.config"
+  }
+}
